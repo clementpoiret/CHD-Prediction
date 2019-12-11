@@ -1,0 +1,4 @@
+[submodule "chd_dashboard"]
+	path = chd_dashboard
+	url = git@github.com:clementpoiret/chd_dashboard.git
+	branch = master
